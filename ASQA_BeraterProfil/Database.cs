@@ -17,7 +17,7 @@ namespace ASQA_BeraterProfil
 
         public Database()
         {
-            con = new MySqlConnection("SERVER=localhost;UID=root;PASSWORD= ;DATABASE=asqa_projekt");
+            con = new MySqlConnection("SERVER=localhost;UID=root;PASSWORD=root ;DATABASE=asqa_projekt");
         }
 
         //OpenClose Methods ------------------------>
